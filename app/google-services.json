@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186410789558",
+    "project_id": "dotes-59ec4",
+    "storage_bucket": "dotes-59ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186410789558:android:439578df480e004a46d417",
+        "android_client_info": {
+          "package_name": "com.example.dotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186410789558-iomkgkon6od47lvt327cvqu3d1p3qr08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0qO2QYRYBilTMBF7XbJXITUaCwjv9m80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186410789558-iomkgkon6od47lvt327cvqu3d1p3qr08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
